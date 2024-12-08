@@ -1,0 +1,12 @@
+numpy==1.22.1  # Only versions for "load model" to work
+pandas==1.4.0
+
+jupyter
+rs_datasets
+fastparquet
+tqdm
+
+recbole==1.2.0
+ray
+kmeans-pytorch
+replay-rec==0.18.0  # For metrics

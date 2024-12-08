@@ -1,0 +1,10 @@
+tensorflow[and-cuda]==2.11.0  # For Cuda 11
+tensorrt
+recommenders[all]==1.2.0
+
+jupyter
+rs_datasets
+fastparquet
+
+# # Metrics, install AFTER main requirements (dependency conflict)
+# pip install replay-rec[torch]==0.17.1

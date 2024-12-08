@@ -1,0 +1,5 @@
+jupyter
+rs_datasets
+fastparquet
+
+replay-rec[all]==0.18.0
